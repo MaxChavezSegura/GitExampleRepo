@@ -9,6 +9,8 @@ import { HomeComponent } from './home/home.component';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  // Adding a comment to practice with GitHub
+
+// Adding a new comment to see in GitHub Repo
+
   title = 'homes';
 }
